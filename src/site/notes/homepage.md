@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","created":"2025-05-13T10:51:18.252+02:00","updated":"2025-05-13T11:12:37.269+02:00"}
+{"dg-publish":true,"permalink":"/homepage/","created":"2025-05-13T10:51:18.252+02:00","updated":"2025-05-13T11:13:46.529+02:00"}
 ---
 
 This is a test note. Banana. 
