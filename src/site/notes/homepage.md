@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","contentClasses":"cards","tags":["gardenEntry"],"created":"2025-05-13T10:51:18.252+02:00","updated":"2025-05-13T11:33:45.575+02:00"}
+{"dg-publish":true,"permalink":"/homepage/","contentClasses":"cards","tags":["gardenEntry"],"created":"2025-05-13T10:51:18.252+02:00","updated":"2025-05-13T11:38:30.542+02:00"}
 ---
 
 >[!cards|4]
