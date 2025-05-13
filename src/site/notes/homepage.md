@@ -17,12 +17,12 @@
 Text, this is normal text akakakaka
 adsfkljökasljksfdalöljköjkllllllllllladafffffffffff
 asDÖKLAJDFGJKAKFDS
-- [[00-templates/t-dice\|t-dice]]
 - [[00-templates/t-faction\|t-faction]]
+- [[00-templates/t-dice\|t-dice]]
 - [[00-templates/t-family\|t-family]]
-- [[00-templates/t-location\|t-location]]
 - [[00-templates/t-npc\|t-npc]]
 - [[00-templates/t-object\|t-object]]
+- [[00-templates/t-location\|t-location]]
 - [[00-templates/t-plot\|t-plot]]
 - [[00-templates/t-session\|t-session]]
 
