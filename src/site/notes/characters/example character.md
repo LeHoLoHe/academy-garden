@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/example-character/","tags":["npc"],"created":"2025-05-13T23:03:27.276+02:00","updated":"2025-05-13T23:09:14.613+02:00"}
+{"dg-publish":true,"permalink":"/characters/example-character/","tags":["npc"],"created":"2025-05-13T23:03:27.276+02:00","updated":"2025-05-14T01:08:09.812+02:00"}
 ---
 
 > [!infobox|right wikipedia]+
