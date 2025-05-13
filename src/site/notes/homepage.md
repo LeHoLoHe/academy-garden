@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","contentClasses":"list-cards","tags":["gardenEntry"],"created":"2025-05-13T10:51:18.252+02:00","updated":"2025-05-13T11:40:42.991+02:00"}
+{"dg-publish":true,"permalink":"/homepage/","contentClasses":"list-cards","tags":["gardenEntry"],"created":"2025-05-13T10:51:18.252+02:00","updated":"2025-05-13T11:42:59.946+02:00"}
 ---
 
-- list
-	- sublist
-- list
-	- sublist
+>[!cards|2]
+>>## Card 1
+>>Content
+>
+>>## Card 2
+>>Content
+
 
 ```
 
