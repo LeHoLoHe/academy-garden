@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/example-character/","tags":["npc"],"created":"2025-05-13T23:03:27.276+02:00","updated":"2025-05-14T01:09:29.605+02:00"}
+{"dg-publish":true,"permalink":"/characters/example-character/","tags":["npc"],"created":"2025-05-13T23:03:27.276+02:00","updated":"2025-05-14T12:50:10.796+02:00"}
 ---
 
 > [!infobox|right wikipedia]+
@@ -7,7 +7,7 @@
 > 
 > | one | two |
 > |---|---|
-> | one | two|
+> | one | description|
 ## 1 Notes
 ## 2 Secrets and Quests
 - yea
