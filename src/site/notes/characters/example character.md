@@ -16,8 +16,22 @@
 > ---
 > description
 ## 1 Notes
-There is a note now. New Note. Why broke? Again. Banana.
+There is a note now. New Note. Why broke? Again. Banana Apple
 ## 2 Secrets and Clues
 
 This is no longer secret.
-There is a secret in this 
+There is a secret in this
+
+## 3 Quests
+## 4 Items and Stats
+## 5 Miscellaneous
+
+| type     | connections |
+| -------- | ----------- |
+| friends  |             |
+| family   |             |
+| allies   |             |
+| enemies  |             |
+| loves    |             |
+| worships |             |
+
