@@ -17,8 +17,25 @@
 > description
 ## 1 Notes
 ## 2 Secrets and Clues
-
+°° This is a Secret and a Clue
+- So is this
+- So is this
+^^
 This is no longer secret.
-There is a secret in this 
-This is a second hidden part
+There is a secret in this °°sentence^^
+## 3 Quests
+## 4 Items and Stats
+## 5 Miscellaneous
+
+| type     | connections |
+| -------- | ----------- |
+| friends  |             |
+| family   |             |
+| allies   |             |
+| enemies  |             |
+| loves    |             |
+| worships |             |
+
 °°
+This is a second hidden part
+^^
