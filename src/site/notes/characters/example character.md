@@ -16,10 +16,8 @@
 > ---
 > description
 ## 1 Notes
-There is a note now. New Note. Why broke? Again.
+There is a note now. New Note. Why broke? Again. Banana.
 ## 2 Secrets and Clues
 
 This is no longer secret.
-There is a secret in this .
-This is a second hidden part
-°°
+There is a secret in this 
