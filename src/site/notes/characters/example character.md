@@ -16,27 +16,10 @@
 > ---
 > description
 ## 1 Notes
-There is a note now. New Note. Why broke?
+There is a note now. New Note. Why broke? Again.
 ## 2 Secrets and Clues
-°° This is a Secret and a Clue
-- So is this
-- So is this
-^^
+
 This is no longer secret.
-There is a secret in this °°sentence^^
-## 3 Quests
-## 4 Items and Stats
-## 5 Miscellaneous
-
-| type     | connections |
-| -------- | ----------- |
-| friends  |             |
-| family   |             |
-| allies   |             |
-| enemies  |             |
-| loves    |             |
-| worships |             |
-
-°°
+There is a secret in this .
 This is a second hidden part
-^^
+°°
